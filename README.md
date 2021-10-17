@@ -2,7 +2,9 @@
 
 I am currently working on a few different projects, both school related and personal.
 
+if you would like to check out my website, visit: https://rory-folster.github.io/
 
+*Please note that this website is no where near complete*
 
 <!--
 **Rory-Folster/rory-folster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
