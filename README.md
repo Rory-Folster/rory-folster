@@ -4,7 +4,7 @@ I am currently working on a few different projects, both school related and pers
 
 if you would like to check out my website, please visit: https://rory-folster.github.io/
 
-*Please note that this website is no where near complete, and is also only PC friendly*
+*Please note that this website is not complete, and is currently also only PC friendly*
 
 <!--
 **Rory-Folster/rory-folster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
