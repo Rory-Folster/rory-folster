@@ -7,7 +7,7 @@ if you would like to check out my website, please visit: https://rory-folster.gi
 *Please note that this website is not complete, and is currently also only PC friendly*
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?rory-folster=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api username=rory-folster&theme=radical)
 
 
 <!--
