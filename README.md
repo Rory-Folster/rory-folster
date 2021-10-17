@@ -2,7 +2,7 @@
 
 I am currently working on a few different projects, both school related and personal.
 
-if you would like to check out my website, visit: https://rory-folster.github.io/
+if you would like to check out my website, please visit: https://rory-folster.github.io/
 
 *Please note that this website is no where near complete*
 
