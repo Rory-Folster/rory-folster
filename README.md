@@ -1,4 +1,4 @@
-### My name is Rory Folster and I am 22 years old.
+### My name is Rory Folster and I am 23 years old.
 
 I am currently working on a few different projects, both school related and personal.
 
