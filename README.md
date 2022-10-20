@@ -2,9 +2,7 @@
 
 I am currently working on a few different projects, both school related and personal.
 
-if you would like to check out my website, please visit: https://rory-folster.github.io/
-
-*Please note that this website is not complete, and is currently also only PC friendly*
+if you would like to check out my website, please visit: https://roryfolster.com/
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rory-folster&theme=radical)
